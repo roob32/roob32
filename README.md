@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Robb!
 
-<!--
-**roob32/roob32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student | Aspiring Python Developer | Embedded Systems Hobbyist 
 
-Here are some ideas to get you started:
+Interested in building practical software, automation tools, and embedded solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm:
+
+🌱 Llearning Flask
+🔭 Building my Portfolio
+⚙️ Exploring Automation Solutions using Python
+
+📫 How to reach me: 
+    - 📧 Email: robbcalvez@gmail.com
+    - 🧍‍♂️ Height: Just stand beside me.
