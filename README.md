@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Robb!  
 
-Computer Engineering Student | Aspiring Python Developer | Embedded Systems Hobbyist  
+```Computer Engineering Student | Aspiring Python Developer | Embedded Systems Hobbyist```  
 
 Interested in building practical software, automation tools, and embedded solutions.  
 
