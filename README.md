@@ -12,4 +12,4 @@ Currently, I'm:
 
 📫 How to reach me:  
     - 📧 Email: robbcalvez@gmail.com  
-    - 🧍‍♂️ Height: Just stand beside me.  
+    - 🧍‍♂️ Height: Just stand beside me, I'm short.  
