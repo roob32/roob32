@@ -6,7 +6,7 @@ Interested in building practical software, automation tools, and embedded soluti
 
 Currently, I'm:  
 
-🌱 Llearning Flask  
+🌱 Learning Flask  
 🔭 Building my Portfolio  
 ⚙️ Exploring Automation Solutions using Python  
 
